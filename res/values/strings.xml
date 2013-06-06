@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo Album Live Wallpaper</string>
+    <string name="select">Select items above</string>
+    <plurals name="selectmore">
+        <item quantity="zero">No items selected</item>
+        <item quantity="one">Select %1$d picture</item>
+        <item quantity="other">Select %1$d pictures</item>
+    </plurals>
+</resources>
